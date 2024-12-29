@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://webportfolioshub.github.io/faisal-mahmood.github.io/sitemap.xml
