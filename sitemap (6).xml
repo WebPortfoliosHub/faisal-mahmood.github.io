@@ -1,16 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://webportfolioshub.github.io/faisal-mahmood.github.io/</loc>
-  <lastmod>2024-12-28T20:49:44+00:00</lastmod>
-</url>
-
-
+      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://webportfolioshub.github.io/faisal-mahmood.github.io/</loc>
+    <lastmod>2024-12-28T20:49:44+00:00</lastmod>
+    <image:image>
+      <image:loc>https://webportfolioshub.github.io/faisal-mahmood.github.io/faisal.10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://webportfolioshub.github.io/faisal-mahmood.github.io/faisal.11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://webportfolioshub.github.io/faisal-mahmood.github.io/faisal.3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://webportfolioshub.github.io/faisal-mahmood.github.io/faisal.4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://webportfolioshub.github.io/faisal-mahmood.github.io/faisal.5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://webportfolioshub.github.io/faisal-mahmood.github.io/faisal.6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://webportfolioshub.github.io/faisal-mahmood.github.io/faisal.7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://webportfolioshub.github.io/faisal-mahmood.github.io/faisal.8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://webportfolioshub.github.io/faisal-mahmood.github.io/faisal.9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://webportfolioshub.github.io/faisal-mahmood.github.io/faisal10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://webportfolioshub.github.io/faisal-mahmood.github.io/faisal11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://webportfolioshub.github.io/faisal-mahmood.github.io/faisal12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://webportfolioshub.github.io/faisal-mahmood.github.io/faisal13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://webportfolioshub.github.io/faisal-mahmood.github.io/faisal14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://webportfolioshub.github.io/faisal-mahmood.github.io/faisal15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://webportfolioshub.github.io/faisal-mahmood.github.io/faisal16.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://webportfolioshub.github.io/faisal-mahmood.github.io/faisal17.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://webportfolioshub.github.io/faisal-mahmood.github.io/faisal18.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://webportfolioshub.github.io/faisal-mahmood.github.io/faisal19.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://webportfolioshub.github.io/faisal-mahmood.github.io/faisal20.jpg</image:loc>
+    </image:image>
+  </url>
 </urlset>
